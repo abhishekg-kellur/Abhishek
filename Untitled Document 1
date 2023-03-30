@@ -1,0 +1,4 @@
+create shortlist1 with head/tail
+create cut list with only command 2fields -f
+
+sort reorder in ascii colating sequence
