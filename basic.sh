@@ -1,0 +1,12 @@
+echo "Welcome"
+echo "Date is: `date`"
+echo "Last 3 months"
+echo "`cal -3`"
+
+echo "'$#' $#"
+echo "$0"
+echo "$*"
+echo "$@"
+echo "$?"
+echo "$$"
+echo "$!"
